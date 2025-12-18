@@ -1,6 +1,6 @@
 # Project: Movie Recommender System Using Machine Learning!
 
-<img src="demo/6.jpeg" alt="workflow" width="70%">
+
 
 Recommendation systems are becoming increasingly important in today’s extremely busy world. People are always short on time with the myriad tasks they need to accomplish in the limited 24 hours. Therefore, the recommendation systems are important as they help them make the right choices, without having to expend their cognitive resources.
 
@@ -62,11 +62,7 @@ here is a demo,
 
 # Demo:
 
-<img src="demo/1.png" alt="workflow" width="70%">
 
-<img src="demo/2.png" alt="workflow" width="70%">
-
-<img src="demo/3.png" alt="workflow" width="70%">
 
 
 # Dataset has been used:
@@ -123,8 +119,8 @@ streamlit run app.py
 
 
 ```bash
-Author: M.eswar
-Data Engineer
-Email:saieswarmallinagmail.com
+Author: S.charan
+Data analyst
+Email:sishtassc@gmail.com
 
 ```
